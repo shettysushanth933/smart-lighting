@@ -1,0 +1,8 @@
+Flask
+tinydb
+requests
+python-dotenv
+Flask-Cors
+streamlit
+pandas
+pydeck
